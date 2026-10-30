@@ -1,0 +1,1 @@
+this dir contains memory of docs for claude code
